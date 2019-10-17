@@ -1,0 +1,10 @@
+C:\Users\100_Jornada1\source\repos\EstadosVariables\EstadosVariables\bin\Debug\EstadosVariables.exe.config
+C:\Users\100_Jornada1\source\repos\EstadosVariables\EstadosVariables\bin\Debug\EstadosVariables.exe
+C:\Users\100_Jornada1\source\repos\EstadosVariables\EstadosVariables\bin\Debug\EstadosVariables.pdb
+C:\Users\100_Jornada1\source\repos\EstadosVariables\EstadosVariables\obj\Debug\EstadosVariables.csprojAssemblyReference.cache
+C:\Users\100_Jornada1\source\repos\EstadosVariables\EstadosVariables\obj\Debug\EstadosVariables.Form1.resources
+C:\Users\100_Jornada1\source\repos\EstadosVariables\EstadosVariables\obj\Debug\EstadosVariables.Properties.Resources.resources
+C:\Users\100_Jornada1\source\repos\EstadosVariables\EstadosVariables\obj\Debug\EstadosVariables.csproj.GenerateResource.cache
+C:\Users\100_Jornada1\source\repos\EstadosVariables\EstadosVariables\obj\Debug\EstadosVariables.csproj.CoreCompileInputs.cache
+C:\Users\100_Jornada1\source\repos\EstadosVariables\EstadosVariables\obj\Debug\EstadosVariables.exe
+C:\Users\100_Jornada1\source\repos\EstadosVariables\EstadosVariables\obj\Debug\EstadosVariables.pdb
