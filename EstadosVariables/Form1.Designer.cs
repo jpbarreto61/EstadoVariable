@@ -44,9 +44,9 @@
             // 
             // btnIncrementar
             // 
-            this.btnIncrementar.Location = new System.Drawing.Point(356, 164);
+            this.btnIncrementar.Location = new System.Drawing.Point(368, 154);
             this.btnIncrementar.Name = "btnIncrementar";
-            this.btnIncrementar.Size = new System.Drawing.Size(86, 34);
+            this.btnIncrementar.Size = new System.Drawing.Size(126, 44);
             this.btnIncrementar.TabIndex = 1;
             this.btnIncrementar.Text = "Incrementar";
             this.btnIncrementar.UseVisualStyleBackColor = true;
